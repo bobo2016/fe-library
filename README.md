@@ -1,6 +1,6 @@
---webpack
---es6
---UMD standard
---Mocha/chai
---eslint
---npm scripts
+####--webpack
+####--es6
+####--UMD standard
+####--Mocha/chai
+####--eslint
+####--npm scripts
